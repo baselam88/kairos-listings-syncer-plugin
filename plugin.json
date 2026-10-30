@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Audits name/address/phone/hours consistency across Google, Yelp, and directories and returns the fix checklist.",
+  "keywords": [
+    "kairos",
+    "listings",
+    "small business",
+    "syncer"
+  ],
+  "license": "MIT",
+  "name": "kairos-listings-syncer",
+  "repository": "https://github.com/baselam88/kairos-listings-syncer-plugin",
+  "version": "0.1.0"
+}
