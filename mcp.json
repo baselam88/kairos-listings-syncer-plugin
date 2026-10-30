@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "kairos-listings-syncer": {
+      "url": "https://qcmmdwkiowvooalugfhv.supabase.co/functions/v1/kairos-listings-syncer-mcp"
+    }
+  }
+}
